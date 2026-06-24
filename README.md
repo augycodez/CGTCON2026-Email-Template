@@ -1,1 +1,2 @@
-# CGTCON2026-Email-Template
+# Email Template
+
